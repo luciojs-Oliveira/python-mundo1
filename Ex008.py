@@ -1,4 +1,4 @@
-# Escreva um programa que leia um valor em metros e o exiba convertido em centímetros e milimetros.
+# Exercício Python 8: Escreva um programa que leia um valor em metros e o exiba convertido em centímetros e milímetros.
 
 medida = float(input("Digite um valor: "))
 

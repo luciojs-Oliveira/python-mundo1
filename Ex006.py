@@ -1,4 +1,4 @@
-# Crie um algoritmo que leia um número e mostre o seu dobro, triplo, e a raiz quadrada.
+# Exercício Python 006: Crie um algoritmo que leia um número e mostre o seu dobro, triplo e raiz
 
 num = float(input("Informe um número: "))
 
